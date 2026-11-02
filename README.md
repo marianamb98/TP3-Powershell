@@ -3,7 +3,7 @@
 **Módulo:** Programación para Seguridad Informática  
 **Docente:** Lic. Carlos Pacheco  
 **Materia/Carrera:** Seguridad Informática  
-**Estudiante:** Mariana B. Mamani  
+**Estudiante:** Mariana Belen Mamani Burgos 
 **Fecha:** Noviembre 2026  
 
 ---
